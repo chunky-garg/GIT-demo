@@ -1,0 +1,6 @@
+[submodule "DUMP"]
+	path = DUMP
+	url = https://github.com/chunky-garg/DUMP.git
+[submodule "test"]
+	path = test
+	url = https://github.com/chunky-garg/test.git
