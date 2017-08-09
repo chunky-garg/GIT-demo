@@ -4,3 +4,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/chunky-garg/test.git
+[submodule "wb-server"]
+	path = wb-server
+	url = https://bitbucket.org/wb-engineering/wb-server
