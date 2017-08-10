@@ -4,3 +4,7 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/chunky-garg/test.git
+
+
+:wq
+
